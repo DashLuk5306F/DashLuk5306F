@@ -1,12 +1,9 @@
-## Hi there 👋
-# Hola
+## Hola!! 👋
+Soy un estudiante de último semestre en bachillerato, me ancanta programar (y el estrés que implica). Aunque no conozca casi nada del mundo de la programción, me gustaría adentrarme, y conocer más y más.
+- 🔭 Actualmente trabajo en mi proyecto escolar, y en mis prácticas profesionales
+- 🌱 Estoy aprendiendo a usar frameworks de node, JavaScript, y desarrollo móvil con flutter
 <!--
-**DashLuk5306F/DashLuk5306F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
